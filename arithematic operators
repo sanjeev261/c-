@@ -1,0 +1,15 @@
+// arithematic operators 
+#include<iostream>
+using namespace std;
+int main()
+{
+int a,b;
+cout<<"enter the two numbers";
+cin>>a>>b;
+cout<<" the addition is "<<a+b;
+cout<<" the subtraction is "<<a-b;
+cout<<" the division is "<<a/b;
+cout<<" the multiplication is "<<a*b;
+cout<<" the remainder is "<<a%b;
+return 0;
+}
